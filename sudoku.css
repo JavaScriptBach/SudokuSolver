@@ -1,0 +1,48 @@
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+#buttons, #usermessage{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+
+input[type=text]{
+	font-size: 36pt;
+	text-align: center;
+	width: 60px;
+	height: 60px;
+}
+
+p{
+	font-size: 14pt;
+	text-align: center;
+}
+
+#pagebody{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.solved{
+	color: green;
+}
+
+strong{
+	color: red;
+	text-decoration: underline;
+}
+table{
+	border: 2px solid black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr, td{
+	border: 1px solid black;
+}
